@@ -1,5 +1,6 @@
 %% Getting started
 
+% scrub scrub scrub
 clear all
 close all
 clc
